@@ -1,0 +1,5 @@
+gspread>=6.0
+feedparser>=6.0
+requests>=2.31
+python-telegram-bot>=21.0
+yfinance>=0.2
